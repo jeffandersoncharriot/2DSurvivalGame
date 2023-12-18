@@ -1,0 +1,370 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.png",
+			"width": 320,
+			"height": 320
+		},
+		{
+			"name": "blocks",
+			"path": "./assets/images/blocks.png",
+			"width": 96,
+			"height": 80
+		},
+		{
+			"name": "bushes",
+			"path": "./assets/images/bushes.png",
+			"width": 112,
+			"height": 80
+		},
+		{
+			"name": "coin",
+			"path": "./assets/images/coin.png",
+			"width": 80,
+			"height": 16
+		},
+		{
+			"name": "character",
+			"path": "./assets/images/character.png",
+			"width": 176,
+			"height": 20
+		},
+		{
+			"name": "character-idle",
+			"path": "./assets/images/character-idle.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "character-running",
+			"path": "./assets/images/character-running.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "character-jumping",
+			"path": "./assets/images/character-jumping.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "character-punching",
+			"path": "./assets/images/character-punching.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "character-falling",
+			"path": "./assets/images/character-falling.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "character-hurt",
+			"path": "./assets/images/character-hurt.png",
+			"width": 192,
+			"height": 48
+		},
+		{
+			"name": "character-death",
+			"path": "./assets/images/character-death.png",
+			"width": 640,
+			"height": 64
+		},
+		{
+			"name": "gunrunningaiming",
+			"path": "./assets/images/gunrunningaiming.png",
+			"width": 384,
+			"height": 48
+		},
+		{
+			"name": "gunidleandshoot",
+			"path": "./assets/images/gunidleandshoot.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "gunrunningshoot",
+			"path": "./assets/images/gunrunningshoot.png",
+			"width": 384,
+			"height": 48
+		},
+		{
+			"name": "creatures",
+			"path": "./assets/images/creatures.png",
+			"width": 128,
+			"height": 112
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 460,
+			"height": 640
+		},
+		{
+			"name": "woodcutterwalk",
+			"path": "./assets/images/woodcutterwalk.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "woodcutterhurt",
+			"path": "./assets/images/woodcutterhurt.png",
+			"width": 144,
+			"height": 48
+		},
+		{
+			"name": "woodcutterdeath",
+			"path": "./assets/images/woodcutterdeath.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "woodcutterjump",
+			"path": "./assets/images/woodcutterjump.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "graverobberidle",
+			"path": "./assets/images/graverobberidle.png",
+			"width": 192,
+			"height": 48
+		},
+		{
+			"name": "graverobberrun",
+			"path": "./assets/images/graverobberrun.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "graverobberhurt",
+			"path": "./assets/images/graverobberhurt.png",
+			"width": 144,
+			"height": 48
+		},
+		{
+			"name": "graverobberwalk",
+			"path": "./assets/images/graverobberwalk.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "graverobberdeath",
+			"path": "./assets/images/graverobberdeath.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "map",
+			"path": "./assets/images/map.png",
+			"width": 288,
+			"height": 160
+		},
+		{
+			"name": "tilemap",
+			"path": "./assets/images/tilemap.png",
+			"width": 96,
+			"height": 160
+		},
+		{
+			"name": "toppers",
+			"path": "./assets/images/toppers.png",
+			"width": 480,
+			"height": 1152
+		},
+		{
+			"name": "hearts",
+			"path": "./assets/images/hearts.png",
+			"width": 96,
+			"height": 16
+		},
+		{
+			"name": "ammo",
+			"path": "./assets/images/ammo.png",
+			"width": 480,
+			"height": 1152
+		},
+		{
+			"name": "swordidle",
+			"path": "./assets/images/swordidle.png",
+			"width": 480,
+			"height": 48
+		},
+		{
+			"name": "swordrunning",
+			"path": "./assets/images/swordrunning.png",
+			"width": 384,
+			"height": 48
+		},
+		{
+			"name": "swordstabbing",
+			"path": "./assets/images/swordstabbing.png",
+			"width": 672,
+			"height": 48
+		},
+		{
+			"name": "chest",
+			"path": "./assets/images/chest.png",
+			"width": 240,
+			"height": 256
+		},
+		{
+			"name": "gun",
+			"path": "./assets/images/gun.png",
+			"width": 768,
+			"height": 32
+		},
+		{
+			"name": "bigpunch",
+			"path": "./assets/images/bigpunch.png",
+			"width": 448,
+			"height": 64
+		},
+		{
+			"name": "graverobberjump",
+			"path": "./assets/images/graverobberjump.png",
+			"width": 288,
+			"height": 48
+		},
+		{
+			"name": "swords",
+			"path": "./assets/images/swords.png",
+			"width": 96,
+			"height": 96
+		}
+	],
+	"fonts": [
+		{
+			"name": "Joystix",
+			"path": "./assets/fonts/Joystix.ttf"
+		},
+		{
+			"name": "Crima",
+			"path": "./assets/fonts/Crima.ttf"
+		},
+		{
+			"name": "Overthink",
+			"path": "./assets/fonts/Overthink.ttf"
+		},
+		{
+			"name": "SanAndreas",
+			"path": "./assets/fonts/SanAndreas.otf"
+		},
+		{
+			"name": "Butterscotch",
+			"path": "./assets/fonts/Butterscotch.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "death",
+			"path": "./assets/sounds/death.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "openchest",
+			"path": "./assets/sounds/openchest.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "sword",
+			"path": "./assets/sounds/sword.wav",
+			"size": 5,
+			"volume": 0.5
+		},
+		{
+			"name": "oof",
+			"path": "./assets/sounds/oof.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "punch",
+			"path": "./assets/sounds/punch.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "emptygun",
+			"path": "./assets/sounds/emptygun.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "lose",
+			"path": "./assets/sounds/lose.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "gunshot",
+			"path": "./assets/sounds/gunshot.wav",
+			"size": 5,
+			"volume": 0.8
+		},
+		{
+			"name": "mandeath",
+			"path": "./assets/sounds/mandeath.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "womandeath",
+			"path": "./assets/sounds/womandeath.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "empty-block",
+			"path": "./assets/sounds/empty-block.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "jump",
+			"path": "./assets/sounds/jump.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "kill",
+			"path": "./assets/sounds/kill.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "kill2",
+			"path": "./assets/sounds/kill2.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "blackops",
+			"path": "./assets/sounds/blackops.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "victory",
+			"path": "./assets/sounds/victory.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "pick-up",
+			"path": "./assets/sounds/pick-up.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "reveal",
+			"path": "./assets/sounds/reveal.wav",
+			"size": 5,
+			"volume": 0.1
+		}
+	]
+}
